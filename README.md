@@ -91,12 +91,4 @@ The system can be extended to real-time recognition via webcam, enabling intuiti
 
 The project uses the publicly available LeapGestRecog dataset. Please refer to the dataset's page for license details.
 
----
 
-## Contact
-
-For questions or suggestions, contact:
-
-**Your Name**  
-Email: your.email@example.com  
-GitHub: [https://github.com/yourusername](https://github.com/yourusername)
